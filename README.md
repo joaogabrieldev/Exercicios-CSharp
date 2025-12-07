@@ -7,4 +7,4 @@
 
 ### Exercicios para treinar a lógica de programação desenvolvido em C#
 
-- Lista de Exercicios desenvolvida no 1º semestre da faculdade, entre fevereiro de 2025 e junho de 2025, para exercitar a lógica de programação, a estrutura e tipos básicos de dados e estruturas de repetição
+- Lista de Exercicios desenvolvida no 1º semestre da faculdade, entre fevereiro de 2025 e junho de 2025, para exercitar a lógica de programação aprendida durante todo o semestre, a estrutura e tipos básicos de dados e os laços de repetição.
