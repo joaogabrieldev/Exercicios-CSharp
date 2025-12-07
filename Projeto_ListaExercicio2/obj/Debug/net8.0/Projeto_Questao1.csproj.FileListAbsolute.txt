@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\bin\Debug\net8.0\Projeto_Questao1.exe
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\bin\Debug\net8.0\Projeto_Questao1.deps.json
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\bin\Debug\net8.0\Projeto_Questao1.runtimeconfig.json
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\bin\Debug\net8.0\Projeto_Questao1.dll
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\bin\Debug\net8.0\Projeto_Questao1.pdb
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\Projeto_Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\Projeto_Questao1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\Projeto_Questao1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\Projeto_Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\Projeto_Questao1.dll
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\refint\Projeto_Questao1.dll
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\Projeto_Questao1.pdb
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\Projeto_Questao1.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Projeto_ListaExercicio2\Projeto_ListaExercicio2\obj\Debug\net8.0\ref\Projeto_Questao1.dll
